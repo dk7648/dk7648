@@ -39,6 +39,7 @@ Sharing
 - SQLD  
 - 정보처리기사  
 - PCCP Java level 3
+- AWS SAA
   
 ## 🎓 Education
 - **울산애니원고등학교 게임개발과** | 2017.03 ~ 2020.02
@@ -66,7 +67,6 @@ Sharing
 - Websocket
 
 ## Focus in 2026
-- 깃 잔디 채우기
 - 알고리즘 & SQL
 - 운동
 - 아침형 인간
