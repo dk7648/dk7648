@@ -74,4 +74,5 @@ Sharing
 <br><br>
 <p align="center">
 <Strong>Email 📧</Strong><br>dk7648@korea.ac.kr<br>
+<Strong>Linked In</Strong><br>https://www.linkedin.com/in/김범창<br>
 </p>
